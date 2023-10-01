@@ -1,0 +1,1 @@
+export const ROUTE = "http://localhost:3000" // Enlace/Ruta del backend

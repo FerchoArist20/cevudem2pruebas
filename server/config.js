@@ -1,0 +1,1 @@
+export const PORT = 3000; // Se establece el puerto para el backend
